@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "title": "IEMOCAP Dataset",
+      "paragraphs": [
+        {
+          "context": "Excuse me.",
+          "qas": [
+            {
+              "id": "9311",
+              "question": "What emotion is expressed in the following statement: 'Excuse me.'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Do you have your forms?",
+          "qas": [
+            {
+              "id": "728",
+              "question": "What emotion is expressed in the following statement: 'Do you have your forms?'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Yeah.",
+          "qas": [
+            {
+              "id": "6611",
+              "question": "What emotion is expressed in the following statement: 'Yeah.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Let me see them.",
+          "qas": [
+            {
+              "id": "4440",
+              "question": "What emotion is expressed in the following statement: 'Let me see them.'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Is there a problem?",
+          "qas": [
+            {
+              "id": "3029",
+              "question": "What emotion is expressed in the following statement: 'Is there a problem?'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Who told you to get in this line?",
+          "qas": [
+            {
+              "id": "6489",
+              "question": "What emotion is expressed in the following statement: 'Who told you to get in this line?'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "You did.",
+          "qas": [
+            {
+              "id": "6376",
+              "question": "What emotion is expressed in the following statement: 'You did.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "You were standing at the beginning and you directed me.",
+          "qas": [
+            {
+              "id": "2667",
+              "question": "What emotion is expressed in the following statement: 'You were standing at the beginning and you directed me.'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Okay. But I didn't tell you to get in this line if you are filling out this particular form.",
+          "qas": [
+            {
+              "id": "3798",
+              "question": "What emotion is expressed in the following statement: 'Okay. But I didn't tell you to get in this line if you are filling out this particular form.'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Well what's the problem?  Let me change it.",
+          "qas": [
+            {
+              "id": "8269",
+              "question": "What emotion is expressed in the following statement: 'Well what's the problem?  Let me change it.'?",
+              "answers": [
+                {
+                  "text": "neutral",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "This form is a Z.X.four.",
+          "qas": [
+            {
+              "id": "7823",
+              "question": "What emotion is expressed in the following statement: 'This form is a Z.X.four.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four, you need to have a different form of ID.",
+          "qas": [
+            {
+              "id": "2771",
+              "question": "What emotion is expressed in the following statement: 'You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four, you need to have a different form of ID.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen.",
+          "qas": [
+            {
+              "id": "7456",
+              "question": "What emotion is expressed in the following statement: 'What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen.'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No. I need another set of ID to prove this is actually you.",
+          "qas": [
+            {
+              "id": "9714",
+              "question": "What emotion is expressed in the following statement: 'No. I need another set of ID to prove this is actually you.'?",
+              "answers": [
+                {
+                  "text": "neutral",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?",
+          "qas": [
+            {
+              "id": "9963",
+              "question": "What emotion is expressed in the following statement: 'How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?'?",
+              "answers": [
+                {
+                  "text": "neutral",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID.",
+          "qas": [
+            {
+              "id": "6333",
+              "question": "What emotion is expressed in the following statement: 'I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "I'm here to get an ID.",
+          "qas": [
+            {
+              "id": "2833",
+              "question": "What emotion is expressed in the following statement: 'I'm here to get an ID.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No.  I need another ID, a separate one.",
+          "qas": [
+            {
+              "id": "4677",
+              "question": "What emotion is expressed in the following statement: 'No.  I need another ID, a separate one.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Like what?  Like a birth certificate?",
+          "qas": [
+            {
+              "id": "4598",
+              "question": "What emotion is expressed in the following statement: 'Like what?  Like a birth certificate?'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A birth certificate, a passport...a student ID; didn't you go to school?  Anything?",
+          "qas": [
+            {
+              "id": "5623",
+              "question": "What emotion is expressed in the following statement: 'A birth certificate, a passport...a student ID; didn't you go to school?  Anything?'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
