@@ -1,0 +1,679 @@
+{
+  "data": [
+    {
+      "title": "Super_Bowl_50",
+      "paragraphs": [
+        {
+          "context": "Super Bowl 50 was an American football game to determine the champion of the National Football League (NFL) for the 2015 season. The American Football Conference (AFC) champion Denver Broncos defeated the National Football Conference (NFC) champion Carolina Panthers 24\u201310 to earn their third Super Bowl title. The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. As this was the 50th Super Bowl, the league emphasized the \"golden anniversary\" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as \"Super Bowl L\"), so that the logo could prominently feature the Arabic numerals 50.",
+          "qas": [
+            {
+              "answers": [
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                },
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                },
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                }
+              ],
+              "question": "Which NFL team represented the AFC at Super Bowl 50?",
+              "id": "56be4db0acb8001400a502ec"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 249,
+                  "text": "Carolina Panthers"
+                },
+                {
+                  "answer_start": 249,
+                  "text": "Carolina Panthers"
+                },
+                {
+                  "answer_start": 249,
+                  "text": "Carolina Panthers"
+                }
+              ],
+              "question": "Which NFL team represented the NFC at Super Bowl 50?",
+              "id": "56be4db0acb8001400a502ed"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 403,
+                  "text": "Santa Clara, California"
+                },
+                {
+                  "answer_start": 355,
+                  "text": "Levi's Stadium"
+                },
+                {
+                  "answer_start": 355,
+                  "text": "Levi's Stadium in the San Francisco Bay Area at Santa Clara, California."
+                }
+              ],
+              "question": "Where did Super Bowl 50 take place?",
+              "id": "56be4db0acb8001400a502ee"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                },
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                },
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                }
+              ],
+              "question": "Which NFL team won Super Bowl 50?",
+              "id": "56be4db0acb8001400a502ef"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 488,
+                  "text": "gold"
+                },
+                {
+                  "answer_start": 488,
+                  "text": "gold"
+                },
+                {
+                  "answer_start": 521,
+                  "text": "gold"
+                }
+              ],
+              "question": "What color was used to emphasize the 50th anniversary of the Super Bowl?",
+              "id": "56be4db0acb8001400a502f0"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 487,
+                  "text": "\"golden anniversary\""
+                },
+                {
+                  "answer_start": 521,
+                  "text": "gold-themed"
+                },
+                {
+                  "answer_start": 487,
+                  "text": "\"golden anniversary"
+                }
+              ],
+              "question": "What was the theme of Super Bowl 50?",
+              "id": "56be8e613aeaaa14008c90d1"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 334,
+                  "text": "February 7, 2016"
+                },
+                {
+                  "answer_start": 334,
+                  "text": "February 7"
+                },
+                {
+                  "answer_start": 334,
+                  "text": "February 7, 2016"
+                }
+              ],
+              "question": "What day was the game played on?",
+              "id": "56be8e613aeaaa14008c90d2"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 133,
+                  "text": "American Football Conference"
+                },
+                {
+                  "answer_start": 133,
+                  "text": "American Football Conference"
+                },
+                {
+                  "answer_start": 133,
+                  "text": "American Football Conference"
+                }
+              ],
+              "question": "What is the AFC short for?",
+              "id": "56be8e613aeaaa14008c90d3"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 487,
+                  "text": "\"golden anniversary\""
+                },
+                {
+                  "answer_start": 521,
+                  "text": "gold-themed"
+                },
+                {
+                  "answer_start": 521,
+                  "text": "gold"
+                }
+              ],
+              "question": "What was the theme of Super Bowl 50?",
+              "id": "56bea9923aeaaa14008c91b9"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 133,
+                  "text": "American Football Conference"
+                },
+                {
+                  "answer_start": 133,
+                  "text": "American Football Conference"
+                },
+                {
+                  "answer_start": 133,
+                  "text": "American Football Conference"
+                }
+              ],
+              "question": "What does AFC stand for?",
+              "id": "56bea9923aeaaa14008c91ba"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 334,
+                  "text": "February 7, 2016"
+                },
+                {
+                  "answer_start": 334,
+                  "text": "February 7"
+                },
+                {
+                  "answer_start": 334,
+                  "text": "February 7, 2016"
+                }
+              ],
+              "question": "What day was the Super Bowl played on?",
+              "id": "56bea9923aeaaa14008c91bb"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                },
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                },
+                {
+                  "answer_start": 177,
+                  "text": "Denver Broncos"
+                }
+              ],
+              "question": "Who won Super Bowl 50?",
+              "id": "56beace93aeaaa14008c91df"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 355,
+                  "text": "Levi's Stadium"
+                },
+                {
+                  "answer_start": 355,
+                  "text": "Levi's Stadium"
+                },
+                {
+                  "answer_start": 355,
+                  "text": "Levi's Stadium in the San Francisco Bay Area at Santa Clara"
+                }
+              ],
+              "question": "What venue did Super Bowl 50 take place in?",
+              "id": "56beace93aeaaa14008c91e0"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 403,
+                  "text": "Santa Clara"
+                },
+                {
+                  "answer_start": 403,
+                  "text": "Santa Clara"
+                },
+                {
+                  "answer_start": 403,
+                  "text": "Santa Clara"
+                }
+              ],
+              "question": "What city did Super Bowl 50 take place in?",
+              "id": "56beace93aeaaa14008c91e1"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 693,
+                  "text": "Super Bowl L"
+                },
+                {
+                  "answer_start": 704,
+                  "text": "L"
+                },
+                {
+                  "answer_start": 693,
+                  "text": "Super Bowl L"
+                }
+              ],
+              "question": "If Roman numerals were used, what would Super Bowl 50 have been called?",
+              "id": "56beace93aeaaa14008c91e2"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 116,
+                  "text": "2015"
+                },
+                {
+                  "answer_start": 112,
+                  "text": "the 2015 season"
+                },
+                {
+                  "answer_start": 116,
+                  "text": "2015"
+                }
+              ],
+              "question": "Super Bowl 50 decided the NFL champion for what season?",
+              "id": "56beace93aeaaa14008c91e3"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 116,
+                  "text": "2015"
+                },
+                {
+                  "answer_start": 346,
+                  "text": "2016"
+                },
+                {
+                  "answer_start": 116,
+                  "text": "2015"
+                }
+              ],
+              "question": "What year did the Denver Broncos secure a Super Bowl title for the third time?",
+              "id": "56bf10f43aeaaa14008c94fd"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 403,
+                  "text": "Santa Clara"
+                },
+                {
+                  "answer_start": 403,
+                  "text": "Santa Clara"
+                },
+                {
+                  "answer_start": 403,
+                  "text": "Santa Clara"
+                }
+              ],
+              "question": "What city did Super Bowl 50 take place in?",
+              "id": "56bf10f43aeaaa14008c94fe"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 355,
+                  "text": "Levi's Stadium"
+                },
+                {
+                  "answer_start": 355,
+                  "text": "Levi's Stadium"
+                },
+                {
+                  "answer_start": 355,
+                  "text": "Levi's Stadium"
+                }
+              ],
+              "question": "What stadium did Super Bowl 50 take place in?",
+              "id": "56bf10f43aeaaa14008c94ff"
+            },
+            {
+              "answers": [
+                {
+                  "answer_start": 267,
+                  "text": "24\u201310"
+                },
+                {
+                  "answer_start": 267,
+                  "text": "24\u201310"
+                },
+                {
+                  "answer_start": 267,
+                  "text": "24\u201310"
+                }
+              ],
+              "question": "What was the final score of Super Bowl 50? ",
+              "id": "56bf10f43aeaaa14008c9500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IEMOCAP Dataset",
+      "paragraphs": [
+        {
+          "context": "Excuse me.",
+          "qas": [
+            {
+              "id": "8952",
+              "question": "What emotion is expressed in the following statement: 'Excuse me.'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Do you have your forms?",
+          "qas": [
+            {
+              "id": "3075",
+              "question": "What emotion is expressed in the following statement: 'Do you have your forms?'?",
+              "answers": [
+                {
+                  "text": "neutral",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Yeah.",
+          "qas": [
+            {
+              "id": "4101",
+              "question": "What emotion is expressed in the following statement: 'Yeah.'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Let me see them.",
+          "qas": [
+            {
+              "id": "3806",
+              "question": "What emotion is expressed in the following statement: 'Let me see them.'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Is there a problem?",
+          "qas": [
+            {
+              "id": "1014",
+              "question": "What emotion is expressed in the following statement: 'Is there a problem?'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Who told you to get in this line?",
+          "qas": [
+            {
+              "id": "2140",
+              "question": "What emotion is expressed in the following statement: 'Who told you to get in this line?'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "You did.",
+          "qas": [
+            {
+              "id": "7052",
+              "question": "What emotion is expressed in the following statement: 'You did.'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "You were standing at the beginning and you directed me.",
+          "qas": [
+            {
+              "id": "5426",
+              "question": "What emotion is expressed in the following statement: 'You were standing at the beginning and you directed me.'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Okay. But I didn't tell you to get in this line if you are filling out this particular form.",
+          "qas": [
+            {
+              "id": "7749",
+              "question": "What emotion is expressed in the following statement: 'Okay. But I didn't tell you to get in this line if you are filling out this particular form.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Well what's the problem?  Let me change it.",
+          "qas": [
+            {
+              "id": "8509",
+              "question": "What emotion is expressed in the following statement: 'Well what's the problem?  Let me change it.'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "This form is a Z.X.four.",
+          "qas": [
+            {
+              "id": "6735",
+              "question": "What emotion is expressed in the following statement: 'This form is a Z.X.four.'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four, you need to have a different form of ID.",
+          "qas": [
+            {
+              "id": "7728",
+              "question": "What emotion is expressed in the following statement: 'You can't--  This is not the line for Z.X.four.  If you're going to fill out the Z.X.four, you need to have a different form of ID.'?",
+              "answers": [
+                {
+                  "text": "neutral",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen.",
+          "qas": [
+            {
+              "id": "5443",
+              "question": "What emotion is expressed in the following statement: 'What?  I'm getting an ID.  This is why I'm here.  My wallet was stolen.'?",
+              "answers": [
+                {
+                  "text": "neutral",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No. I need another set of ID to prove this is actually you.",
+          "qas": [
+            {
+              "id": "7146",
+              "question": "What emotion is expressed in the following statement: 'No. I need another set of ID to prove this is actually you.'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?",
+          "qas": [
+            {
+              "id": "1684",
+              "question": "What emotion is expressed in the following statement: 'How am I supposed to get an ID without an ID?  How does a person get an ID in the first place?'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID.",
+          "qas": [
+            {
+              "id": "4943",
+              "question": "What emotion is expressed in the following statement: 'I don't know.  But I need an ID to pass this form along.  I can't just send it along without an ID.'?",
+              "answers": [
+                {
+                  "text": "sadness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "I'm here to get an ID.",
+          "qas": [
+            {
+              "id": "1355",
+              "question": "What emotion is expressed in the following statement: 'I'm here to get an ID.'?",
+              "answers": [
+                {
+                  "text": "anger",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "No.  I need another ID, a separate one.",
+          "qas": [
+            {
+              "id": "3970",
+              "question": "What emotion is expressed in the following statement: 'No.  I need another ID, a separate one.'?",
+              "answers": [
+                {
+                  "text": "neutral",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Like what?  Like a birth certificate?",
+          "qas": [
+            {
+              "id": "7895",
+              "question": "What emotion is expressed in the following statement: 'Like what?  Like a birth certificate?'?",
+              "answers": [
+                {
+                  "text": "neutral",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A birth certificate, a passport...a student ID; didn't you go to school?  Anything?",
+          "qas": [
+            {
+              "id": "3194",
+              "question": "What emotion is expressed in the following statement: 'A birth certificate, a passport...a student ID; didn't you go to school?  Anything?'?",
+              "answers": [
+                {
+                  "text": "happiness",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
